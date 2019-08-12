@@ -1,0 +1,122 @@
+{
+  "en": {
+    "btn": {
+      "create": "Create",
+      "edit": "Edit",
+      "backToList": "Back to List",
+      "cancel": "Cancel",
+      "remove": "Remove",
+      "stopService": "Stop Service",
+      "startService": "Start Service",
+      "clickToUpload": "Click To Upload"
+    },
+    "noti": {
+      "success": "Successfully updated.",
+      "logout": "Successfully logged out."
+    },
+    "placeholder": {
+      "pleaseSelect": "Please Select"
+    },
+    "error": {
+      "server": "Sorry. There was a temporary server issue. Please try again later.",
+      "short": "Your search term must be at least 2 characters.",
+      "checkField": "Please Check all input fields."
+    }
+  },
+  "kr": {
+    "btn": {
+      "create": "등록",
+      "edit": "수정",
+      "backToList": "목록으로",
+      "cancel": "취소",
+      "remove": "삭제",
+      "stopService": "서비스 중지",
+      "startService": "서비스 시작",
+      "clickToUpload": "눌러서 업로드"
+    },
+    "noti": {
+      "success": "성공적으로 업데이트되었습니다.",
+      "logout": "성공적으로 로그아웃 되었습니다."
+    },
+    "placeholder": {
+      "pleaseSelect": "선택해주세요."
+    },
+    "error": {
+      "server": "죄송합니다. 일시적인 서버 문제가 발생했습니다. 나중에 다시 시도해주세요.",
+      "short": "검색어는 2글자 이상이어야 합니다.",
+      "checkField": "모든 입력 항목을 확인해주세요."
+    }
+  },
+  "fr": {
+    "btn": {
+      "create": "Inscription",
+      "edit": "Éditer",
+      "backToList": "retour à la liste",
+      "cancel": "Annuler",
+      "remove": "retirer",
+      "stopService": "Aire d'autoroute",
+      "startService": "Démarrer le service",
+      "clickToUpload": "Cliquez pour télécharger"
+    },
+    "noti": {
+      "success": "Mise à jour réussie.",
+      "logout": "Déconnecté avec succès."
+    },
+    "placeholder": {
+      "pleaseSelect": "Please Select"
+    },
+    "error": {
+      "server": "Désolé Il y avait un problème de serveur temporaire. Veuillez réessayer plus tard.",
+      "short": "Votre terme de recherche doit comporter au moins 2 caractères.",
+      "checkField": "Vérifiez tous les champs de saisie."
+    }
+  },
+  "jp": {
+    "btn": {
+      "create": "登録",
+      "edit": "修正",
+      "backToList": "リストに戻る",
+      "cancel": "キャンセル",
+      "remove": "削除する",
+      "stopService": "サービス停止",
+      "startService": "サービス開始",
+      "clickToUpload": "クリックしてアップロード"
+    },
+    "noti": {
+      "success": "正常に更新されました。",
+      "logout": "正常にログアウトしました。"
+    },
+    "placeholder": {
+      "pleaseSelect": "Please Select"
+    },
+    "error": {
+      "server": "申し訳ありません。一時的なサーバーの問題が発生しました。後で再試行してください。",
+      "short": "検索キーワードは2文字以上必要です。",
+      "checkField": "すべての入力フィールドを確認してください。"
+    }
+  },
+  "cn": {
+    "btn": {
+      "create": "注册",
+      "edit": "编辑",
+      "backToList": "返回目录",
+      "cancel": "取消",
+      "remove": "去掉",
+      "stopService": "停止服务",
+      "startService": "开始服务",
+      "clickToUpload": "点击上传"
+    },
+    "noti": {
+      "success": "成功更新。",
+      "logout": "成功退出。"
+    },
+    "placeholder": {
+      "pleaseSelect": "Please Select"
+    },
+    "error": {
+      "server": "抱歉。 有一个临时服务器问题。 请稍后再试。",
+      "short": "您的搜索字词必须至少包含2个字符。",
+      "checkField": "检查所有输入字段。"
+    }
+  }
+}
