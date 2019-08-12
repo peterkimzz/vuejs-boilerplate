@@ -25,6 +25,8 @@
 
 body {
   font-family: 'Nanum Barun Gothic', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-weight: 500;
   line-height: 1.8;
   font-size: 16px;

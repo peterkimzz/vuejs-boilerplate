@@ -1,20 +1,35 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '../views'
+
+// layouts
+import DefaultLayout from 'src/layouts/default'
+
+// views
+import Home from 'src/views'
 
 Vue.use(Router)
 
-export default new Router({
-  routes: [
+const defaultViews = {
+  path: '/',
+  component: DefaultLayout,
+  children: [
     {
-      path: '/',
-      name: 'home',
+      path: '',
       component: Home
     },
     {
-      path: '/about',
-      name: 'about',
+      path: 'about',
       component: () => import(/* webpackChunkName: "about" */ '../views/About')
     }
   ]
+}
+
+const routes = [defaultViews]
+
+const router = new Router({
+  mode: 'history',
+  linkExactActiveClass: 'active',
+  routes
 })
+
+export default router
