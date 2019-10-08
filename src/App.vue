@@ -1,13 +1,3 @@
 <template>
-  <div class="default-layout">
-    <router-view/>
-  </div>
+  <router-view/>
 </template>
-
-<script>
-export default {
-  metaInfo: {
-    title: 'Home'
-  }
-}
-</script>

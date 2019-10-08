@@ -23,9 +23,6 @@ import './plugins/vue-scroll-reveal'
 // vue scrollto
 import './plugins/vue-scrollto'
 
-// Ant Design
-// import './plugins/ant-design'
-
 // modal
 import './plugins/vue-js-modal'
 
